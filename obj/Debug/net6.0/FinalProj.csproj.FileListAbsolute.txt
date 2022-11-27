@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\bin\Debug\net6.0\FinalProj.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\bin\Debug\net6.0\FinalProj.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\bin\Debug\net6.0\FinalProj.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\bin\Debug\net6.0\FinalProj.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\bin\Debug\net6.0\FinalProj.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\refint\FinalProj.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\FinalProj.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Final_Project_GB\FinalProj\obj\Debug\net6.0\ref\FinalProj.dll
