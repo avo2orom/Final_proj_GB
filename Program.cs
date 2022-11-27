@@ -8,8 +8,8 @@
 При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 */
 
-
-string[] newArrayP()
+// создание произвольного массива
+string[] newArray()
 {
     Console.WriteLine("Введите количество элементов массива");
     int n = Convert.ToInt32(Console.ReadLine());
@@ -23,16 +23,37 @@ string[] newArrayP()
 }
 
 //печать массива
-void PrintArray(string[]array)
+void PrintArray(string[] array)
 {
-    for (int i=0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
         Console.Write($"{array[i]}");
-        if (i < (array.Length-1)) Console.Write($", ");
+        if (i < (array.Length - 1)) Console.Write($" ");
 
     }
     Console.WriteLine();
 }
 
-string[] array = newArrayP();
+// метод создания массива менше 3-х символов
+void NewArrayWith3SymbolElements(string[] array, string[] array2)
+{
+    int count = 0;
+    int maxIndex = 3;
+    for (int i = 0; i < array.Length; i++)
+    {
+
+        if (array[i].Length <= maxIndex)
+        {
+            array2[count] = array[i];
+            count++;
+        }
+    }
+}
+
+string[] array = newArray();
+string[] array2 = new string[array.Length];
+Console.WriteLine("Исходный массив: ");
 PrintArray(array);
+NewArrayWith3SymbolElements(array, array2);
+Console.WriteLine("Массив из строк, длина которых меньше либо равна 3 символа: ");
+PrintArray(array2);
